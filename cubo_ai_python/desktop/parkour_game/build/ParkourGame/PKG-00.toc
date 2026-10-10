@@ -1,0 +1,56 @@
+('C:\\Users\\ELSY '
+ 'MONROY\\Desktop\\cubo_ai_python\\desktop\\parkour_game\\build\\ParkourGame\\ParkourGame.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\ELSY '
+   'MONROY\\Desktop\\cubo_ai_python\\desktop\\parkour_game\\build\\ParkourGame\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\ELSY '
+   'MONROY\\Desktop\\cubo_ai_python\\desktop\\parkour_game\\build\\ParkourGame\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\ELSY '
+   'MONROY\\Desktop\\cubo_ai_python\\desktop\\parkour_game\\build\\ParkourGame\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\ELSY '
+   'MONROY\\Desktop\\cubo_ai_python\\desktop\\parkour_game\\build\\ParkourGame\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\ELSY '
+   'MONROY\\Desktop\\cubo_ai_python\\desktop\\parkour_game\\build\\ParkourGame\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\ELSY '
+   'MONROY\\Desktop\\cubo_ai_python\\desktop\\parkour_game\\build\\ParkourGame\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\ELSY '
+   'MONROY\\Desktop\\cubo_ai_python\\desktop\\parkour_game\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\ELSY '
+   'MONROY\\Desktop\\cubo_ai_python\\desktop\\parkour_game\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('main',
+   'C:\\Users\\ELSY '
+   'MONROY\\Desktop\\cubo_ai_python\\desktop\\parkour_game\\main.py',
+   'PYSOURCE')],
+ 'python313.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
